@@ -1,4 +1,0 @@
-qutip
-matplotlib
-scipy
-numpy
