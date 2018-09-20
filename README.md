@@ -1,1 +1,1 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mmatera/qmnotebooks)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mmatera/qmnotebooks/master)
