@@ -5,11 +5,7 @@ dependencies:
   - qutip
   - scipy
   - numpy
-  - toolz
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
+  - alps
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
