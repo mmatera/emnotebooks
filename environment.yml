@@ -6,5 +6,7 @@ dependencies:
   - scipy
   - numpy
   - matplotlib
+  - sfepy
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
+   
